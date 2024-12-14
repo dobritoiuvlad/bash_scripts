@@ -7,7 +7,7 @@ This repository contains a collection of Bash scripts I've created to address va
 ### `reload_audio_modules_dynamic.sh`
 This script identifies which audio server (PipeWire or PulseAudio) is currently running, determines the loaded audio kernel modules, and then unloads and reloads them dynamically. It is useful for troubleshooting audio-related issues.
 
-### Script Name: `reload_audio_modules_dynamic_updated.sh`
+### `reload_audio_modules_dynamic_updated.sh`
 Similar with `reload_audio_modules_dynamic.sh` additionally, the script prints the specific audio kernel module that resolves the issue, providing clarity and helping with targeted troubleshooting.
 
 ## Usage
