@@ -13,7 +13,8 @@ Similar with `reload_audio_modules_dynamic.sh` additionally, the script prints t
 ## Usage
 1. Clone this repository.
 2. Make the script executable:
+   ```bash
    chmod +x reload_audio_modules_dynamic.sh
-3. Run the script using:
+4. Run the script using:
    ```bash
    ./reload_audio_modules_dynamic.sh
