@@ -40,11 +40,7 @@ This bash script automates the creation of a udev rule to reload audio modules d
 
 ## About the Naming Scheme
 
-Yes, we know. The names of these scripts—`reload_audio_modules_dynamic_updated_updated.sh` and `udev_testing_vladV3`—sound like a desperate attempt to avoid naming conflicts at 3 AM. 
+Yes, I know. The names of these scripts—`reload_audio_modules_dynamic_updated_updated.sh` and `udev_testing_vladV3`—sound like a desperate attempt to avoid naming conflicts at 3 AM. 
 
 - **Why "dynamic_updated_updated"?** Because "dynamic_updated" was already taken, and clearly, *more updates* equal *better*.  
 - **What's up with "vladV3"?** Well, versions 1 and 2 were probably a bit too... experimental. Third time's the charm, right? 
-
-This naming scheme reflects the true essence of software development: procrastination, chaos, and a sprinkle of creativity under pressure. We wear it like a badge of honor. You're welcome. 😎
-
-
